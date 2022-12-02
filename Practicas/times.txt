@@ -1,0 +1,17 @@
+The elapsed time in the openMP execution is 121.314
+The elapsed time in the openMP execution is 120.593
+The elapsed time in the openMP execution is 121.48
+The elapsed time in the openMP execution is 127.127
+The elapsed time in the openMP execution is 171.274
+The elapsed time in the sequential execution is 254.203
+The elapsed time in the mpi execution is 376.259
+The elapsed time in the mpi execution is 373.398
+The elapsed time in the mpi execution is 204.968
+The elapsed time in the mpi execution is 204.974
+The elapsed time in the mpi execution is 132.803
+The elapsed time in the mpi execution is 132.849
+The elapsed time in the mpi execution is 132.848
+The elapsed time in the mpi execution is 126.583
+The elapsed time in the mpi execution is 126.585
+The elapsed time in the mpi execution is 126.63
+The elapsed time in the mpi execution is 126.629

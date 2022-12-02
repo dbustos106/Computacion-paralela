@@ -1,0 +1,5 @@
+/home/julian/Documentos/Parcial/CMakeFiles/MultiplicacionSecuencial.dir
+/home/julian/Documentos/Parcial/CMakeFiles/MultiplicacionOpenMP.dir
+/home/julian/Documentos/Parcial/CMakeFiles/MultiplicacionMPI.dir
+/home/julian/Documentos/Parcial/CMakeFiles/edit_cache.dir
+/home/julian/Documentos/Parcial/CMakeFiles/rebuild_cache.dir

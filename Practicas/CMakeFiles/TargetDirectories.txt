@@ -1,0 +1,5 @@
+/home/julian/Documentos/Practica1/CMakeFiles/DifuminadoSecuencial.dir
+/home/julian/Documentos/Practica1/CMakeFiles/DifuminadoOpenMP.dir
+/home/julian/Documentos/Practica1/CMakeFiles/DifuminadoMPI.dir
+/home/julian/Documentos/Practica1/CMakeFiles/edit_cache.dir
+/home/julian/Documentos/Practica1/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.0.0)
+
+project( CarasDifuminadas )
+find_package( OpenMP REQUIRED )
+find_package( OpenCV REQUIRED )
+find_package( MPI REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+include_directories( SYSTEM ${MPI_INCLUDE_PATH} )
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${OpenMP_CXX_FLAGS}")
+
+add_executable( DifuminadoSecuencial DifuminadoSecuencial.cpp )
+add_executable( DifuminadoOpenMP DifuminadoOpenMP.cpp )
+add_executable( DifuminadoMPI DifuminadoMPI.cpp )
+target_link_libraries( DifuminadoSecuencial ${OpenCV_LIBS} )
+target_link_libraries( DifuminadoOpenMP ${OpenCV_LIBS} ${CMAKE_C_FLAGS} ${OpenMP_C_FLAGS} )
+target_link_libraries( DifuminadoMPI ${OpenCV_LIBS} MPI::MPI_CXX )

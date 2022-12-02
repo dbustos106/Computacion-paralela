@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -rdynamic CMakeFiles/MultiplicacionOpenMP.dir/MultiplicacionOpenMP.cpp.o -o MultiplicacionOpenMP  -fopenmp 
